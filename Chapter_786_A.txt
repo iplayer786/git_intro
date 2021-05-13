@@ -1,1 +1,3 @@
-The 
+Learning about the main branch, we've commited two changes.
+Now that we've worked on one. We are proving our skills through our second one!
+Hope this worked.
