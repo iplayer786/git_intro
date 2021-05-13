@@ -1,3 +1,5 @@
 Learning about the main branch, we've commited two changes.
 Now that we've worked on one. We are proving our skills through our second one!
 Hope this worked.
+
+Now this is a story all about how my github story flipped upside down! Just kidding, we're making progress! Thank you Daniel.
